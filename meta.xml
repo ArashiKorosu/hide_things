@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <id>global</id>
+    <name>Global</name>
+    <description>This extension allows to add global static files (CSS and JS) easily.</description>
+    <version>1.0.0</version>
+    <release>1</release>
+    <vendor>Plesk</vendor>
+    <url>https://www.plesk.com</url>
+    <plesk_min_version>17.8.11</plesk_min_version>
+</module>
